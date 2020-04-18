@@ -18,7 +18,7 @@
           Welcome to the Vuetify + Nuxt.js template
         </v-card-title>
         <v-card-text>
-          <p>テスト</p>
+          <p>テストasdfasdfasdf</p>
           <p>
             For more information on Vuetify, check out the <a
               href="https://vuetifyjs.com"
