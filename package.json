@@ -5,15 +5,17 @@
   "author": "yamano1212",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "nuxt --port 8080",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
     "@nuxtjs/axios": "^5.3.6",
-    "@nuxtjs/pwa": "^3.0.0-0"
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "contentful": "^7.14.3",
+    "nuxt": "^2.12.2"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.0.0"
